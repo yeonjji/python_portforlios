@@ -1,1 +1,1 @@
-# python_portforlios
+# 주식_데이터_예측_프로젝트
